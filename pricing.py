@@ -341,7 +341,7 @@ class Pricing:
     
 train_add = '/content/data/train.csv'
 test_add = '/content/data/test.csv'
-stopwords = '/content/Stop_words_new.txt'
+stopwords = '/content/Persian_stopwords.txt'
 model_add = '/content/LR.sav'
 pricing = Pricing(train_add,test_add,stopwords,'bow','LR',model_add,0.33,True,200)
 result = pricing.main()
