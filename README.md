@@ -15,3 +15,5 @@ The whole process can be divided into four steps:
 ## Persian Stop Words
 
 Persian_stopwords.txt includes Persian stopwords (this file is collected from all Persian stopwords available on the Internet. However, this version is reviewed and edited.)
+
+**Note that you should replace all Arabic letters with Persian ones before using this file.**
